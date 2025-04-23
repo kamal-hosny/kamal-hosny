@@ -27,7 +27,7 @@
   </a>
 </div>
 
-<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
+<img align="right" alt="coding-gif" width="400" src="https://avatars.githubusercontent.com/u/150514586?v=4">
 
 <h3 align="left">💫 About Me</h3>
 
@@ -48,12 +48,6 @@
 
 <br/>
 
-<h3 align="center">🔆 Work & Projects</h3>
-<div align="center" style="display: flex; gap: 10px;">
-  <!-- Replace with your own project or work-related images if available -->
-  <img src="https://via.placeholder.com/350x200?text=Project+1" alt="Project 1" width="350" style="border-radius: 10px;">
-  <img src="https://via.placeholder.com/350x200?text=Project+2" alt="Project 2" width="350" style="border-radius: 10px;">
-</div>
 
 <h3 align="center">⚡ GitHub Stats</h3>
 <div align="center">
