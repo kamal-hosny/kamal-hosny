@@ -1,6 +1,6 @@
 <!-- MasterHead -->
 <div align="center">
-  <a href="https://github.com/KamalHosny">
+  <a href="https://github.com/kamal-hosny">
     <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif"
          alt="Header GIF"
          style="max-width: 100%; height: auto; border-radius: 8px"/>
@@ -12,20 +12,20 @@
 <h3 align="center">Frontend Developer | React Enthusiast | Algorithm Lover</h3>
 
 <div align="center">
-  <a href="https://github.com/KamalHosny">
+  <a href="https://github.com/kamal-hosny">
     <img width="162px"
-         src="https://komarev.com/ghpvc/?username=KamalHosny&label=Profile%20views&color=318CE7&style=flat-square"
+         src="https://komarev.com/ghpvc/?username=kamal-hosny&label=Profile%20views&color=318CE7&style=flat-square"
          alt="Profile views" />
   </a>
-  <a href="https://api.github-star-counter.workers.dev/user/KamalHosny">
+  <a href="https://api.github-star-counter.workers.dev/user/kamal-hosny">
     <img width="115px"
          alt="Total stars"
-         src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=318CE7&labelColor=505050&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/KamalHosny" />
+         src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=318CE7&labelColor=505050&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/kamal-hosny" />
   </a>
-  <a href="https://github.com/KamalHosny?tab=followers">
+  <a href="https://github.com/kamal-hosny?tab=followers">
     <img width="147px"
          alt="Followers"
-         src="https://custom-icon-badges.herokuapp.com/github/followers/KamalHosny?color=318CE7&labelColor=505050&style=flat&logo=person-add&label=Followers&logoColor=white" />
+         src="https://custom-icon-badges.herokuapp.com/github/followers/kamal-hosny?color=318CE7&labelColor=505050&style=flat&logo=person-add&label=Followers&logoColor=white" />
   </a>
 </div>
 
@@ -40,12 +40,6 @@
     <li> ⚡ Passionate about algorithm design </li><br>
     <li> 💬 Ask me about frontend development </li><br>
   </ul>
-  <img
-    alt="coding-gif"
-    width="300"
-    height="300"
-    src="https://avatars.githubusercontent.com/u/150514586?v=4"
-    style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1)">
 </div>
 
 <div align="center" style="margin: 20px 0">
@@ -72,19 +66,19 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=KamalHosny&count_private=true&show_icons=true&theme=aura&border_radius=10&hide_border=true"/>
-  <img width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalHosny&theme=aura&hide_border=true&layout=compact" alt="Top Languages">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=kamal-hosny&count_private=true&show_icons=true&theme=aura&border_radius=10&hide_border=true"/>
+  <img width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamal-hosny&theme=aura&hide_border=true&layout=compact" alt="Top Languages">
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=KamalHosny&theme=aura&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=kamal-hosny&theme=aura&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/KamalHosny/KamalHosny/main/assets/line.png"
+<img src="https://raw.githubusercontent.com/kamal-hosny/kamal-hosny/main/assets/line.png"
      width="100%"
      alt="divider"
      style="margin: 40px 0"/>
