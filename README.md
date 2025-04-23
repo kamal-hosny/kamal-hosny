@@ -1,7 +1,7 @@
 <!-- MasterHead -->
 <div align="center">
   <a href="https://github.com/kamal-hosny">
-    <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif](https://i.pinimg.com/originals/d8/82/8d/d8828d2d6254273a617e6337d292303d.gif"
+    <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif"
          alt="Header GIF"
          style="max-width: 100%; height: auto; border-radius: 8px"/>
   </a>
