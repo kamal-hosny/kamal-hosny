@@ -1,6 +1,6 @@
 <!-- MasterHead -->
-<a href="https://github.com/kamal-hosny">
-  <img src="https://raw.githubusercontent.com/kamal-hosny/kamal-hosny/main/fallout_grayscale.gif" alt="Header GIF" style="width:100%; height:auto"/>
+<a href="https://github.com/kamal-hosny/kamal-hosny">
+  <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif" alt="Header GIF" style="width:auto; height:auto"/>
 </a>
 
 <h1 align="center">Hello 🙌 I'm Kamal Hosny</h1>
@@ -42,11 +42,12 @@
 </h4>
 
 <div align="left">
-  <a href="https://discord.gg/kamalhosny"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> 
+  <a href="https://discord.gg/kamal-hosny"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> 
   <a href="https://www.linkedin.com/in/kamal-hosny-681068295/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
 <br/>
+
 
 <h3 align="center">⚡ GitHub Stats</h3>
 <div align="center">
@@ -74,6 +75,7 @@
 
 <h3 align="center">⭐ Top Repositories</h3>
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <!-- Replace with your own repositories -->
   <a href="https://github.com/kamal-hosny/your-repo">
     <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=kamal-hosny&repo=your-repo&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
   </a>
@@ -82,8 +84,9 @@
   </a>
 </div>
 
-<a href="https://github.com/kamal-hosny/kamal-hosny/blob/main/footer.gif">
-  <img src="https://raw.githubusercontent.com/kamal-hosny/kamal-hosny/main/footer.gif" alt="Footer GIF" style="width:100%; height:auto"/>
+
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif">
+  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Footer GIF" style="width:auto; height:auto"/>
 </a>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="4px"/>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
