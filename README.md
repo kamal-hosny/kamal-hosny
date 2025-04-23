@@ -1,8 +1,8 @@
 <!-- MasterHead -->
 <div align="center">
   <a href="https://github.com/KamalHosny">
-    <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif" 
-         alt="Header GIF" 
+    <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif"
+         alt="Header GIF"
          style="max-width: 100%; height: auto; border-radius: 8px"/>
   </a>
 </div>
@@ -13,18 +13,18 @@
 
 <div align="center">
   <a href="https://github.com/KamalHosny">
-    <img width="162px" 
-         src="https://komarev.com/ghpvc/?username=KamalHosny&label=Profile%20views&color=318CE7&style=flat-square" 
+    <img width="162px"
+         src="https://komarev.com/ghpvc/?username=KamalHosny&label=Profile%20views&color=318CE7&style=flat-square"
          alt="Profile views" />
   </a>
   <a href="https://api.github-star-counter.workers.dev/user/KamalHosny">
-    <img width="115px" 
-         alt="Total stars" 
+    <img width="115px"
+         alt="Total stars"
          src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=318CE7&labelColor=505050&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/KamalHosny" />
   </a>
   <a href="https://github.com/KamalHosny?tab=followers">
-    <img width="147px" 
-         alt="Followers" 
+    <img width="147px"
+         alt="Followers"
          src="https://custom-icon-badges.herokuapp.com/github/followers/KamalHosny?color=318CE7&labelColor=505050&style=flat&logo=person-add&label=Followers&logoColor=white" />
   </a>
 </div>
@@ -32,27 +32,26 @@
 ---
 
 <p>### 💫 About Me</p>
-<div  style="justify-content: space-between;
-    align-items: center;">
-<ul>
-<li> 📈 Mastering modern web development </li><br>
-<li> 🔭 Building React/Next.js applications </li><br>
-<li> 🌱 Learning advanced Next.js features </li><br>
-<li> ⚡ Passionate about algorithm design </li><br>
-<li> 💬 Ask me about frontend development </li><br>
+<div style="justify-content: space-between; align-items: center;">
+  <ul>
+    <li> 📈 Mastering modern web development </li><br>
+    <li> 🔭 Building React/Next.js applications </li><br>
+    <li> 🌱 Learning advanced Next.js features </li><br>
+    <li> ⚡ Passionate about algorithm design </li><br>
+    <li> 💬 Ask me about frontend development </li><br>
   </ul>
-  <img align="center" 
-       alt="coding-gif" 
-       width="300"
-       height="300"
-       src="https://avatars.githubusercontent.com/u/150514586?v=4"
-       style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1)">
+  <img
+    alt="coding-gif"
+    width="300"
+    height="300"
+    src="https://avatars.githubusercontent.com/u/150514586?v=4"
+    style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1)">
 </div>
 
 <div align="center" style="margin: 20px 0">
   <a href="https://discord.gg/kamalhosny">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a> 
+  </a>
   <a href="https://www.linkedin.com/in/kamal-hosny-681068295/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -63,7 +62,7 @@
 ### 🛠 Tech Stack
 
 <div align="center" style="margin: 20px 0">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,sass,git,github,vscode,figma" 
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,sass,git,github,vscode,figma"
        alt="Tech Icons"
        style="margin: 10px 0"/>
 </div>
@@ -77,23 +76,15 @@
   <img width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalHosny&theme=aura&hide_border=true&layout=compact" alt="Top Languages">
 </div>
 
----
+<br/>
 
-### 🏆 Featured Projects
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-  <!-- Replace with actual project links -->
-  <a href="https://github.com/KamalHosny/project1">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=KamalHosny&repo=project1&theme=aura&hide_border=true"/>
-  </a>
-  <a href="https://github.com/KamalHosny/project2">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=KamalHosny&repo=project2&theme=aura&hide_border=true"/>
-  </a>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=KamalHosny&theme=aura&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/KamalHosny/KamalHosny/main/assets/line.png" 
+<img src="https://raw.githubusercontent.com/KamalHosny/KamalHosny/main/assets/line.png"
      width="100%"
      alt="divider"
      style="margin: 40px 0"/>
