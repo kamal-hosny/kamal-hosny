@@ -1,11 +1,11 @@
 <!-- MasterHead -->
 <a href="https://github.com/kamal-hosny">
-  <img src="https://github.com/kamal-hosny/kamal-hosny/blob/main/header.gif?raw=true" alt="Header GIF" style="width:100%; height:auto"/>
+  <img src="https://raw.githubusercontent.com/kamal-hosny/kamal-hosny/main/fallout_grayscale.gif" alt="Header GIF" style="width:100%; height:auto"/>
 </a>
 
 <h1 align="center">Hello 🙌 I'm Kamal Hosny</h1>
 
-<h3 align="center">A Passionate Frontend Developer from Egypt</h3>
+<h4 align="left">🌟 Passionate about mastering web development with a focus on ReactJS and NextJS. Currently honing my skills in modern JavaScript frameworks and exploring the endless possibilities of algorithms. I love building clean, efficient, and user-friendly web applications.</h4>
 
 <div align="center">
   <a href="https://github.com/kamal-hosny">
@@ -29,31 +29,61 @@
 
 <img align="right" alt="coding-gif" width="400" src="https://avatars.githubusercontent.com/u/150514586?v=4">
 
-### 💫 About Me
-🔭 I’m currently working on **React/Next.js projects**<br>
-🌱 I’m currently learning **Advanced Next.js**<br>
-💬 Ask me about **React, JavaScript, or web development**<br>
-📫 How to reach me **your.email@example.com**<br>
-⚡ Fun fact **I love algorithmic challenges**
+<h3 align="left">💫 About Me</h3>
 
-### 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-server)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamal-hosny)
+<h4> 
+  📈 My next goal is to master all aspects of web development.<br>
+  🔭 I’m currently working on ReactJS/NextJS projects.<br>
+  🌱 I’m currently learning Next.js.<br>
+  💬 Ask me about any help with web development or JavaScript.<br>
+  📫 You can reach me on LinkedIn: <a href="https://www.linkedin.com/in/kamal-hosny-681068295/">Kamal Hosny</a>.<br>
+  😄 Pronouns: He/Him.<br>
+  ⚡ I love everything made up of algorithms.
+</h4>
 
-### 💻 Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
-### 📊 GitHub Stats
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kamal-hosny&show_icons=true&theme=default&border_radius=10" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamal-hosny&layout=compact&border_radius=10" />
+<div align="left">
+  <a href="https://discord.gg/kamalhosny"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> 
+  <a href="https://www.linkedin.com/in/kamal-hosny-681068295/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
-### 🏃️ Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kamal-hosny&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
+
+<h3 align="center">⚡ GitHub Stats</h3>
+<div align="center">
+  <img width="380" src="https://github-readme-stats.vercel.app/api?username=kamal-hosny&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10"/>
+  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamal-hosny&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+</div>
+
+<br/>
+
+<h3 align="center">📚 Languages & Tools</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwindcss,sass,vscode,github,git,figma" /><br>
+</div>
+
+<br/>
+
+<h3 align="center">💻 Tech Stack</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" />
+</div>
+
+<h3 align="center">⭐ Top Repositories</h3>
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <a href="https://github.com/kamal-hosny/your-repo">
+    <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=kamal-hosny&repo=your-repo&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+  </a>
+  <a href="https://github.com/kamal-hosny/another-repo">
+    <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=kamal-hosny&repo=another-repo&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+  </a>
+</div>
+
+<a href="https://github.com/kamal-hosny/kamal-hosny/blob/main/footer.gif">
+  <img src="https://raw.githubusercontent.com/kamal-hosny/kamal-hosny/main/footer.gif" alt="Footer GIF" style="width:100%; height:auto"/>
+</a>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="4px"/>
