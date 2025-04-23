@@ -84,12 +84,6 @@
   </a>
 </div>
 
-<h3 align="center">Support Me 💰</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/kamalhosny">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="kamalhosny" />
-  </a>
-</p>
 
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif">
   <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Footer GIF" style="width:auto; height:auto"/>
