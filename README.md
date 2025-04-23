@@ -29,24 +29,25 @@
   </a>
 </div>
 
-<div align="center" style="margin: 40px 0">
+---
+
+<p>### 💫 About Me</p>
+<div  style="justify-content: space-between;
+    align-items: center;">
+<ul>
+<li> 📈 Mastering modern web development </li><br>
+<li> 🔭 Building React/Next.js applications </li><br>
+<li> 🌱 Learning advanced Next.js features </li><br>
+<li> ⚡ Passionate about algorithm design </li><br>
+<li> 💬 Ask me about frontend development </li><br>
+  </ul>
   <img align="center" 
        alt="coding-gif" 
-       width="400" 
+       width="300"
+       height="300"
        src="https://avatars.githubusercontent.com/u/150514586?v=4"
        style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1)">
 </div>
-
----
-
-### 💫 About Me
-<p align="center">
-  📈 Mastering modern web development<br>
-  🔭 Building React/Next.js applications<br>
-  🌱 Learning advanced Next.js features<br>
-  ⚡ Passionate about algorithm design<br>
-  💬 Ask me about frontend development<br>
-</p>
 
 <div align="center" style="margin: 20px 0">
   <a href="https://discord.gg/kamalhosny">
@@ -60,6 +61,7 @@
 ---
 
 ### 🛠 Tech Stack
+
 <div align="center" style="margin: 20px 0">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,sass,git,github,vscode,figma" 
        alt="Tech Icons"
@@ -69,6 +71,7 @@
 ---
 
 ### 📊 GitHub Stats
+
 <div align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=KamalHosny&count_private=true&show_icons=true&theme=aura&border_radius=10&hide_border=true"/>
   <img width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalHosny&theme=aura&hide_border=true&layout=compact" alt="Top Languages">
@@ -77,6 +80,7 @@
 ---
 
 ### 🏆 Featured Projects
+
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
   <!-- Replace with actual project links -->
   <a href="https://github.com/KamalHosny/project1">
