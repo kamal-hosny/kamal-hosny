@@ -29,24 +29,29 @@
   </a>
 </div>
 
-<div align="center" style="margin: 40px 0">
-  <img align="center" 
-       alt="coding-gif" 
-       width="400" 
-       src="https://avatars.githubusercontent.com/u/150514586?v=4"
-       style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1)">
-</div>
-
 ---
 
-### 💫 About Me
-<p align="center">
-  📈 Mastering modern web development<br>
-  🔭 Building React/Next.js applications<br>
-  🌱 Learning advanced Next.js features<br>
-  ⚡ Passionate about algorithm design<br>
-  💬 Ask me about frontend development<br>
-</p>
+### 💫 About Me & Profile
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; margin: 40px 0; gap: 20px;">
+  <!-- Profile Image -->
+  <div style="flex: 1; max-width: 400px; min-width: 250px;">
+    <img align="center" 
+         alt="coding-gif" 
+         width="100%" 
+         src="https://avatars.githubusercontent.com/u/150514586?v=4"
+         style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
+  <!-- About Me Text -->
+  <div style="flex: 1; max-width: 400px; min-width: 250px; text-align: center;">
+    <p>
+      📈 Mastering modern web development<br>
+      🔭 Building React/Next.js applications<br>
+      🌱 Learning advanced Next.js features<br>
+      ⚡ Passionate about algorithm design<br>
+      💬 Ask me about frontend development<br>
+    </p>
+  </div>
+</div>
 
 <div align="center" style="margin: 20px 0">
   <a href="https://discord.gg/kamalhosny">
