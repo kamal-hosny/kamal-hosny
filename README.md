@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/1200x/db/53/c7/db53c72a008309ba9028a4b576830ef5.jpg"/>
 
 **🔭 Currently working on:** Modern React Applications  
 **🌱 Learning:** Next.js 15, TypeScript & Advanced Frontend Architecture  
@@ -81,5 +81,6 @@
   <i>"Code is poetry written in logic."</i>
   
 </div>
+
 
 
