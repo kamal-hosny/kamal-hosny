@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+  <h1>🚀 Kamal Hosny</h1>
+  <h3>Frontend Developer | React & Next.js Expert</h3>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+GitHub!;Frontend+Developer+%7C+React+Expert;Building+Modern+Web+Experiences" alt="Typing Animation"/>
 </div>
 
@@ -160,6 +164,7 @@
   <br><br>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with fellow developers</b> so if you want to collaborate or chat about frontend development, <b>I'll be happy to connect!</b> 😊</em>
 </div>
+
 
 
 
