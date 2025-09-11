@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Kamal%20Hosny&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js%20Expert&descAlignY=55&descSize=18" alt="Header"/>
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Kamal%20Hosny&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js%20Expert&descAlignY=55&descSize=18](https://i.pinimg.com/736x/24/b2/e5/24b2e542c23c3ae766211150f0ada011.jpg)" alt="Header"/>
 </div>
 
 <div align="center">
@@ -160,4 +160,5 @@
   <br><br>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with fellow developers</b> so if you want to collaborate or chat about frontend development, <b>I'll be happy to connect!</b> 😊</em>
 </div>
+
 
