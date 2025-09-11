@@ -18,17 +18,18 @@
 
 ### 🚀 About Me
 
+```javascript
 const kamalHosny = {
-location: "Cairo, Egy
-t", role: "Frontend Dev
-loper", currentFocus: ["React", "Next.js", "TypeScript", "Algorit
-m Design
-], goals: { 2025: "Master advanced Next.js pattern
-& React optimization", longTerm: "Build scalable web appl
-ca
-ions that make a difference" }, funFact: "I solve algorithm
+  location: "Cairo, Egypt",
+  role: "Frontend Developer",
+  currentFocus: ["React", "Next.js", "TypeScript", "Algorithm Design"],
+  goals: {
+    2025: "Master advanced Next.js patterns & React optimization",
+    longTerm: "Build scalable web applications that make a difference",
+  },
+  funFact: "I solve algorithmic problems for fun 🚀",
+};
 
-text
 
 ### 💻 Current Journey
 - 🔥 **Deep diving** into React performance optimization
@@ -134,3 +135,4 @@ text
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </div>
+
