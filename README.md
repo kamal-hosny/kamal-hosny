@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Kamal%20Hosny&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI/UX%20Enthusiast&descAlignY=55&descSize=18" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Kamal%20Hosny&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js%20Expert&descAlignY=55&descSize=18" alt="Header"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+GitHub!;Frontend+Developer+%7C+React+Enthusiast;Building+Modern+Web+Experiences" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+GitHub!;Frontend+Developer+%7C+React+Expert;Building+Modern+Web+Experiences" alt="Typing Animation"/>
 </div>
 
 ---
@@ -11,20 +11,20 @@
 ### 🚀 About Me
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🔭 Currently working on **Advanced React Applications**
-- 🌱 Learning **Next.js 14, TypeScript & Performance Optimization**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Frontend Development, UI/UX**
-- ⚡ Fun fact: **I turn coffee into code ☕**
+- 🔭 Currently working on **Modern React Applications**
+- 🌱 Learning **Next.js 15, TypeScript & Advanced Frontend Architecture**
+- 👯 Looking to collaborate on **Frontend Projects & Open Source**
+- 💬 Ask me about **React, Next.js, Frontend Development, UI/UX**
+- ⚡ Fun fact: **I turn coffee into beautiful user interfaces ☕**
 
 ---
 
 ### 💻 Current Journey
-- 🔥 Deep diving into React performance optimization
-- 🌟 Exploring advanced Next.js 14 features (App Router, Server Components)
+- 🔥 Deep diving into React 19 features and performance optimization
+- 🌟 Mastering Next.js 15 with Turbopack and App Router enhancements[1]
 - 🧠 Solving algorithmic challenges daily on LeetCode
 - 🎨 Crafting pixel-perfect, responsive user interfaces
-- 📱 Building modern web applications with TypeScript
+- 📱 Building modern web applications with TypeScript and latest frontend tools
 
 ---
 
@@ -35,14 +35,14 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,sass,html,css&theme=dark" alt="Frontend Technologies"/>
 </div>
 
-#### Backend & Tools
+#### Tools & Development Environment
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,git,github,vscode&theme=dark" alt="Backend & Tools"/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,npm,yarn,vercel,netlify&theme=dark" alt="Development Tools"/>
 </div>
 
-#### Design & Development Environment
+#### Design & UI Libraries
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,npm,yarn,vercel,netlify,docker,postman&theme=dark" alt="Design & Environment"/>
+  <img src="https://skillicons.dev/icons?i=materialui,bootstrap,figma,photoshop,xd,sketch&theme=dark" alt="Design Tools"/>
 </div>
 
 ---
@@ -111,8 +111,8 @@
   <a href="mailto:kamal.hosny@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
   </a>
-  <a href="https://twitter.com/kamalhosny">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
+  <a href="https://portfolio-kamalhosny.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio"/>
   </a>
 </div>
 
@@ -133,12 +133,21 @@
 
 ---
 
-### 🎯 2024 Goals
-- 🚀 Contribute to 5+ open source projects
-- 📚 Master advanced React patterns and performance optimization
-- 🎨 Launch 3 full-stack applications
-- 🌍 Build a developer community of 1000+ members
-- 📝 Write 20+ technical blog posts
+### 🎯 2025 Goals
+- 🚀 Master Next.js 15 and React 19 latest features
+- 📚 Build 5 production-ready frontend applications  
+- 🎨 Contribute to open source UI libraries
+- 🌍 Share knowledge through technical articles and tutorials
+- 📝 Create reusable component libraries
+
+---
+
+### 💡 What I'm Working With in 2025
+- **Next.js 15.5** - Latest stable version with Turbopack improvements[1]
+- **React 19** - Latest React features and performance enhancements  
+- **TypeScript 5+** - Advanced type safety and developer experience
+- **Tailwind CSS** - Utility-first styling approach
+- **Modern Frontend Architecture** - Component-driven development
 
 ---
 
@@ -147,7 +156,7 @@
 </div>
 
 <div align="center">
-  <i>"First, solve the problem. Then, write the code." - John Johnson</i>
+  <i>"The best way to get started is to quit talking and begin doing." - Walt Disney</i>
   <br><br>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with fellow developers</b> so if you want to collaborate or chat about frontend development, <b>I'll be happy to connect!</b> 😊</em>
 </div>
