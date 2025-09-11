@@ -44,16 +44,6 @@
 
 ---
 
-## 🌟 Featured Project
-
-<div align="center">
-  <a href="https://github.com/kamal-hosny/Real-estate-graduation-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamal-hosny&repo=Real-estate-graduation-project&theme=tokyonight&hide_border=true" alt="Real Estate Project"/>
-  </a>
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -81,6 +71,7 @@
   <i>"Code is poetry written in logic."</i>
   
 </div>
+
 
 
 
