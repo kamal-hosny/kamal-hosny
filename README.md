@@ -1,84 +1,136 @@
-<!-- MasterHead -->
+<!-- Enhanced Profile Header -->
 <div align="center">
-  <a href="https://github.com/kamal-hosny">
-    <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif](https://i.pinimg.com/1200x/4d/5d/5d/4d5d5dd822f652a68d84dd6242c32b4e.jpg"
-         alt="Header GIF"
-         style="max-width: 100%;/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Kamal%20Hosny&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header"/>
 </div>
 
-<h1 align="center">Hello 🙌 I'm Kamal Hosny</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=318CE7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+Next.js+Enthusiast;Algorithm+Problem+Solver;Building+Modern+Web+Experiences" alt="Typing Animation"/>
+</div>
 
-<h3 align="center">Frontend Developer | React Enthusiast | Algorithm Lover</h3>
+<!-- Profile Views and Stats Badges -->
+<div align="center" style="margin: 20px 0;">
+  <img src="https://komarev.com/ghpvc/?username=kamal-hosny&label=Profile%20views&color=318CE7&style=for-the-badge" alt="Profile views" />
+  <img src="https://custom-icon-badges.herokuapp.com/github/followers/kamal-hosny?color=318CE7&labelColor=1a1a1a&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" alt="Followers"/>
+  <img src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=318CE7&labelColor=1a1a1a&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/kamal-hosny" alt="Stars"/>
+</div>
+
+---
+
+### 🚀 About Me
+
+const kamalHosny = {
+location: "Cairo, Egy
+t", role: "Frontend Dev
+loper", currentFocus: ["React", "Next.js", "TypeScript", "Algorit
+m Design
+], goals: { 2025: "Master advanced Next.js pattern
+& React optimization", longTerm: "Build scalable web appl
+ca
+ions that make a difference" }, funFact: "I solve algorithm
+
+text
+
+### 💻 Current Journey
+- 🔥 **Deep diving** into React performance optimization
+- 🌟 **Exploring** advanced Next.js 14 features (App Router, Server Components)
+- 🧠 **Solving** algorithmic challenges daily on LeetCode
+- 🎨 **Crafting** pixel-perfect, responsive user interfaces
+- 📱 **Building** modern web applications with TypeScript
+
+---
+
+### 🛠️ Tech Arsenal
+
+#### **Frontend Technologies**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,sass,html,css" alt="Frontend Technologies"/>
+</div>
+
+#### **Tools & Development Environment**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,npm,nodejs,vercel" alt="Development Tools"/>
+</div>
+
+---
+
+### 📈 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/kamal-hosny">
-    <img width="162px"
-         src="https://komarev.com/ghpvc/?username=kamal-hosny&label=Profile%20views&color=318CE7&style=flat-square"
-         alt="Profile views" />
-  </a>
-  <a href="https://api.github-star-counter.workers.dev/user/kamal-hosny">
-    <img width="115px"
-         alt="Total stars"
-         src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=318CE7&labelColor=505050&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/kamal-hosny" />
-  </a>
-  <a href="https://github.com/kamal-hosny?tab=followers">
-    <img width="147px"
-         alt="Followers"
-         src="https://custom-icon-badges.herokuapp.com/github/followers/kamal-hosny?color=318CE7&labelColor=505050&style=flat&logo=person-add&label=Followers&logoColor=white" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamal-hosny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamal-hosny&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamal-hosny&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+</div>
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kamal-hosny&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+### 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/kamal-hosny/Real-estate-graduation-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamal-hosny&repo=Real-estate-graduation-project&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Real Estate Project"/>
   </a>
 </div>
 
 ---
 
-<p>### 💫 About Me</p>
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <ul>
-    <li> 📈 Mastering modern web development </li><br>
-    <li> 🔭 Building React/Next.js applications </li><br>
-    <li> 🌱 Learning advanced Next.js features </li><br>
-    <li> ⚡ Passionate about algorithm design </li><br>
-    <li> 💬 Ask me about frontend development </li><br>
-  </ul>
-</div>
+### 🌐 Let's Connect
 
-<div align="center" style="margin: 20px 0">
+<div align="center">
+  <a href="https://www.linkedin.com/in/kamal-hosny-681068295/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
   <a href="https://discord.gg/kamalhosny">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA" alt="Discord"/>
   </a>
-  <a href="https://www.linkedin.com/in/kamal-hosny-681068295/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="mailto:kamal.hosny@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
   </a>
 </div>
 
 ---
 
-### 🛠 Tech Stack
+### 📊 Weekly Coding Activity
 
-<div align="center" style="margin: 20px 0">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,sass,git,github,vscode,figma"
-       alt="Tech Icons"
-       style="margin: 10px 0"/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://github.com/kamal-hosny/kamal-hosny/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 💡 Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
 
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=kamal-hosny&count_private=true&show_icons=true&theme=aura&border_radius=10&hide_border=true"/>
-  <img width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamal-hosny&theme=aura&hide_border=true&layout=compact" alt="Top Languages">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" alt="Footer"/>
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kamal-hosny&theme=aura&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
+  <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
 </div>
 
 ---
 
-<img src="https://i.pinimg.com/736x/ad/f9/a4/adf9a4cea463355da988abc14e0b5f13.jpg"
-     width="100%"
-     alt="img"/>
+### 🎯 Fun Facts About Me
+- 💻 I can debug code faster than I can find my keys
+- 🚀 I dream in JavaScript and wake up in TypeScript
+- 🎨 I believe good UI is like a good joke - if you have to explain it, it's not that good
+- 🔥 My commit messages are more organized than my room
+- 📚 I read documentation for fun (yes, really!)
 
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+</div>
