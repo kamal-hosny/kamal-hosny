@@ -3,10 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+GitHub" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+I'm+Kamal+Hosny;Frontend+Developer" alt="Typing Animation"/>
 
-  <h1>🚀 Kamal Hosny</h1>
-  <h3>Frontend Developer | React & Next.js Expert</h3>
+<h3>Frontend Developer | React & Next.js Expert</h3>
   
 </div>
 
@@ -72,6 +71,7 @@
   <i>"Code is poetry written in logic."</i>
   
 </div>
+
 
 
 
